@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "May 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Poop on Jason's face",
+      "day": "October 29th at 3:19pm",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Matty's Birthday",
+      "day": "4/20/2024",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
